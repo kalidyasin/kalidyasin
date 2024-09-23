@@ -76,7 +76,7 @@
 ![Redis](https://img.shields.io/badge/redis-%23F1F1F1.svg?logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%231F1F1F.svg?logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300F.svg?logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/sqlserver-%23ECC94B.svg?logo=sqlserver&logoColor=white)
+![Sql Server](https://img.shields.io/badge/sql%20server-%23333.svg?logo=sqlserver&logoColor=white)
 
 ## 📦 Other:
 
