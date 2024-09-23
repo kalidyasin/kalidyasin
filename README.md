@@ -22,7 +22,7 @@
 ![Vim](https://img.shields.io/badge/vim-%237EBF50.svg?logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/neovim-%2371ba51.svg?logo=neovim&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=Cloudflare&logoColor=white) 
-![docker](https://img.shields.io/badge/Cloudflare-AAAAAA?logo=Cloudflare&logoColor=1a66e8)
+![Docker](https://img.shields.io/badge/docker-ffffff?logo=docker&logoColor=1a66e8)
 
 #  📦 Languages:
 
