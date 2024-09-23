@@ -73,10 +73,10 @@
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?logo=postgresql&logoColor=white)
-<!-- ![MongoDB](https://img.shields.io/badge/mongodb-%234EA300.svg?logo=mongodb&logoColor=white) -->
 ![Redis](https://img.shields.io/badge/redis-%23F1F1F1.svg?logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%231F1F1F.svg?logo=sqlite&logoColor=white)
 ![Sql Server](https://img.shields.io/badge/sql%20server-%23333.svg?logo=sqlserver&logoColor=white)
+<!-- ![MongoDB](https://img.shields.io/badge/mongodb-%234EA300.svg?logo=mongodb&logoColor=white) -->
 
 ## 📦 Other:
 
