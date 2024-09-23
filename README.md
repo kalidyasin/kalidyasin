@@ -26,12 +26,30 @@
 
 #  📦 Languages:
 
-# 👨‍💻 Framework & Libraries:
+# 📚 Frameworks & Libraries:
+
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/codeigniter-%23000000.svg?logo=codeigniter&logoColor=white)
+![Rocket](https://img.shields.io/badge/rocket-%23F7DF1E.svg?logo=rocket&logoColor=white)
+![Actix Web](https://img.shields.io/badge/actix-web-%231E7EFC.svg?logo=actix-web&logoColor=white)
+![Composer](https://img.shields.io/badge/composer-%23000000.svg?logo=composer&logoColor=white)
 
 # 🐧 Operating System:
 
+![Linux](https://img.shields.io/badge/Linux-%23000000.svg?logo=linux&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%231F4105.svg?logo=windows&logoColor=white)
 
 # 🗄️ Database:
+
+![MySQL](https://img.shields.io/badge/mysql-%2300F.svg?logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%234EA300.svg?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23F1F1F1.svg?logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%231F1F1F.svg?logo=sqlite&logoColor=white)
+![MariaDB](https://img.shields.io/badge/mariadb-%23316192.svg?logo=mariadb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/sqlserver-%23ECC94B.svg?logo=sqlserver&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kalidyasin&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br/>
