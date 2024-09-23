@@ -47,7 +47,6 @@
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/codeigniter-%23000000.svg?logo=codeigniter&logoColor=white)
-![Rocket](https://img.shields.io/badge/rocket-%23F7DF1E.svg?logo=rocket&logoColor=white)
 ![Actix](https://img.shields.io/badge/actix-%23FFFFFF.svg?logo=actix&logoColor=black)
 ![Rocket](https://img.shields.io/badge/rocket-%23DD0031.svg?logo=rocket&logoColor=white)
 ![Composer](https://img.shields.io/badge/composer-%23000000.svg?logo=composer&logoColor=white)
