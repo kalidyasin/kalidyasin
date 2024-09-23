@@ -15,12 +15,9 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kalidyasin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=kalidyasin&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kalidyasin&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalidyasin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 📈 GitHub Trending Repos
-![](https://github-readme-trending-repos.herokuapp.com/?username=kalidyasin&theme=tokyonight&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalidyasin&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=10)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=kalidyasin&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
