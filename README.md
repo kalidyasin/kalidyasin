@@ -55,7 +55,7 @@
   ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 
 - **Package Managers & Build Tools**: 
-  ![Composer](https://img.shields.io/badge/composer-%23000000.svg?logo=composer&logoColor=white), 
+  ![Composer](https://img.shields.io/badge/composer-%23bbbbbb.svg?logo=composer&logoColor=black), 
   ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white), 
   ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?logo=yarn&logoColor=white), 
   ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?logo=webpack&logoColor=black),
