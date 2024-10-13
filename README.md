@@ -22,11 +22,11 @@
 ![Docker](https://img.shields.io/badge/docker-ffffff?logo=docker&logoColor=1a66e8),
 ![Tmux](https://img.shields.io/badge/tmux-%23000000.svg?logo=tmux&logoColor=white),
 ![Vim](https://img.shields.io/badge/vim-%237EBF50.svg?logo=vim&logoColor=white),
-![Neovim](https://img.shields.io/badge/neovim-%2371ba51.svg?logo=neovim&logoColor=white)
+![Neovim](https://img.shields.io/badge/neovim-%2371ba51.svg?logo=neovim&logoColor=white),
+![Makefile](https://img.shields.io/badge/makefile-%23000000.svg?logo=makefile&logoColor=white)
 - **Web Servers**: 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white),
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white),
-![Makefile](https://img.shields.io/badge/tmux-%23000000.svg?logo=makefile&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white)
 
 ### 👨‍💻 Languages:
 - **Proficient In**: 
