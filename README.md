@@ -25,7 +25,8 @@
 ![Neovim](https://img.shields.io/badge/neovim-%2371ba51.svg?logo=neovim&logoColor=white)
 - **Web Servers**: 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white),
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white)
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white),
+![Makefile](https://img.shields.io/badge/tmux-%23000000.svg?logo=makefile&logoColor=white)
 
 ### 👨‍💻 Languages:
 - **Proficient In**: 
