@@ -4,7 +4,7 @@
 👯 I’m looking to collaborate on System Software.<br>
 🌱 I’m currently learning Rust and Actix web framework<br>
 💬 Ask me about anything<br>
-⚡ Fun fact: I enjoy playing PC games when I’m not working
+⚡ Fun fact: I enjoy playing PC games and drowing when I’m not working
 
 
 ## 🌐 Socials:
